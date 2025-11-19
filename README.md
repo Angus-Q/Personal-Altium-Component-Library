@@ -7,4 +7,5 @@ https://angusq.com/journal/technical%20documentation/altium-component-library
 
 ## TODO:
 
-- Add supplier links to the parts
+- Create generic parts with common sizes instead of adding supplier links to parts. This makes parts more 'symbolic' and 'generalised'
+- Add supplier links to parts that only need them, like IC's. 
